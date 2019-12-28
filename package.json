@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ToniYun/React-Practice/issues"
   },
-  "homepage": "https://github.com/ToniYun/React-Practice#readme"
+  "homepage": "https://github.com/ToniYun/React-Practice#readme",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
 }
